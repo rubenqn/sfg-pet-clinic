@@ -34,7 +34,7 @@
 	</build>
 
 	<scm>
-		<developerConnection>scm:git:https://github.com/rubenqn/sfg-pet-clinic.git</developerConnection>
+		<developerConnection>scm:git:git@github.com:rubenqn/sfg-pet-clinic.git</developerConnection>
 	  <tag>0.0.2</tag>
   </scm>
 	<packaging>pom</packaging>
