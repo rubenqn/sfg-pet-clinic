@@ -3,7 +3,7 @@
 	<parent>
 		<groupId>ruben.springframework</groupId>
 		<artifactId>sfg-pet-clinic</artifactId>
-		<version>0.0.1</version>
+		<version>0.0.1-SNAPSHOT</version>
 	</parent>
 	<artifactId>pet-clinic-data</artifactId>
 
@@ -63,7 +63,4 @@
 		</plugins>
 	</build>
 
-  <scm>
-    <tag>sfg-pet-clinic-0.0.1</tag>
-  </scm>
 </project>
